@@ -1,0 +1,22 @@
+{
+  "id": "custom-dazed-condition",
+  "title": "Custom Dazed Condition",
+  "description": "Adds a custom 'Dazed' condition to the D&D 5e system.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Paul Barkley",
+      "email": "Galphanore@gmail.com"
+    }
+  ],
+  "minimumCoreVersion": "0.8.0",
+  "compatibleCoreVersion": "11",
+  "scripts": ["scripts/dazed-condition.js"],
+  "esmodules": [],
+  "styles": [],
+  "packs": [],
+  "languages": [],
+  "url": "",
+  "manifest": "",
+  "download": ""
+}
